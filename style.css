@@ -1,0 +1,38 @@
+h1{
+    background-color: blueviolet;
+    font-size: 37px;
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
+.green {
+    background-color: mediumseagreen;
+}
+/* #red { */
+    background-color: crimson;
+}
+p {
+    text-align: center;
+}
+.is-white {
+    color: floralwhite;
+}
+#cavalier {
+    width: 640px;
+    height: 480px;
+    overflow: hidden;
+    /* background: -o-linear-gradient(#1293f5, #bae8ff 80%, #35b236 80%); */
+}
+* {
+    outline: 1px solid red;
+}
+.quote p {
+    background-color: blue;
+    color: ivory;
+    font-style: italic;
+}
+.header > img {
+    height: 480px;
+}
+
